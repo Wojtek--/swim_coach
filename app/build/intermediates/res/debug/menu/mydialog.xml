@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.swimcoachfinal.Mydialog" >
+
+</menu>
+<!-- From: file:/home/wojtek/AndroidstudioProjects/SwimCoachFinal/app/src/main/res/menu/mydialog.xml -->

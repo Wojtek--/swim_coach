@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.swimcoachfinal.activity.UserProfile" >
+
+
+
+</menu>
+<!-- From: file:/home/wojtek/AndroidstudioProjects/SwimCoachFinal/app/src/main/res/menu/user_profile.xml -->

@@ -1,0 +1,4 @@
+/home/wojtek/AndroidstudioProjects/SwimCoachFinal/app/build/intermediates/classes/debug
+/home/wojtek/AndroidstudioProjects/SwimCoachFinal/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-fdea96537d218211284836fe63b3e991c31fe50b.jar
+/home/wojtek/AndroidstudioProjects/SwimCoachFinal/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-058fa4fee3a049a9f8ba3c527e4c5cfd93fec308.jar
+/home/wojtek/AndroidstudioProjects/SwimCoachFinal/app/build/intermediates/pre-dexed/debug/classes-16bf0f847774f453f948972fb327d22a16b45e44.jar
